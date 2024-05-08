@@ -1,1 +1,3 @@
 # win-pacman-game
+
+This game is very much addictive and mood refreshing. In the gameplay, the player navigates the Pac-Man through the maze. The maze contains various dots and ghosts named as Blinky, Pinky, Inky, and Clyde. The goal is to eat all those dots in the maze. The ghosts will run around the mazes and try to kill Pac-Man. The control is the arrow keys in this gameplay. The four ghosts roam the maze hunting for Pac-Man. If anyone of the ghosts touches the Pacman then you will lose your life. When you eat the powerup then you can easily run towards the ghosts and you can eat them. This game has only one level. So if you want to modify the game, then you can add some levels to it.
